@@ -4,9 +4,9 @@
 
 
 # Data Used
-* Data - HR Data with over 23000 rows from the year 2000 to 2020
-* Data Cleaning and Analysis - MySQL Workbench
-* Data Visualization - PowerBI
+* Data - HR Data with over 23000 rows from the year 2000 to 2020.
+* Data Cleaning and Analysis - MySQL Workbench.
+* Data Visualization - PowerBI.
 
 # Questions
 * What is the gender breakdown of employees in the company?
