@@ -6,7 +6,7 @@
 
 -- 3. What is the age distribution of employees in the company?
 
--- 4. What is the age disttbution of gender in the company?
+-- 4. What is the age distribution of gender in the company?
 
 -- 5. How many employees work at headquarters versus remote locations?
 
